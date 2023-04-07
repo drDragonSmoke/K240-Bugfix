@@ -6,7 +6,7 @@ To reassemble code with vasm:
 vasmm68k_mot -no-opt -Fhunkexe -nosym -o playk240 playk240.asm
 
 Version notes:
-- Repair bug fixed K240 (v2.001)
+- Repair bug fixed (v2.001)
 - Asteros drain bug fixed (v2.002)
 - Powerplant can use asteros in stores (v2.003) 
 - Each powerplant draws 1 ore (v2.003)
