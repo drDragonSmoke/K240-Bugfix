@@ -1,6 +1,0 @@
-K240 - version 2.005
-- Repair bug fixed
-- Asteros drain fixed
-- Powerplant changed: can use asteros in stores; each powerplant draws one
-- Photon/Plasma hardpoint price switched
-- Alien ships can now use their Warp Generator hardpoint
