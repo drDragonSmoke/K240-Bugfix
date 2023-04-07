@@ -1,0 +1,5 @@
+K240 - version 2.004
+- Repair bug fixed
+- Asteros drain fixed
+- Powerplant changed: can use asteros in stores too; each powerplant draws one
+- Photon/Plasma hardpoint price switched
