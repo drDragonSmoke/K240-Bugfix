@@ -1,4 +1,0 @@
-K240 - version 2.003
-- Repair bug fixed
-- Asteros drain fixed
-- Powerplant enhanced (can use asteros in stores too)
