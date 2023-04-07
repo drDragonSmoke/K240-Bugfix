@@ -1,3 +1,0 @@
-K240 - version 2.001
-- Repair bug fixed
-[offset position 0x15e6e (89,710) hex-edited from 6702 to 6F02]
