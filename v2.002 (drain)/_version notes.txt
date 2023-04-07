@@ -1,3 +1,0 @@
-K240 - version 2.002
-- Repair bug fixed
-- Asteros drain fixed
