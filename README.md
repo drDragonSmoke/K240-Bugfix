@@ -6,7 +6,7 @@ To reassemble code with vasm:
 vasmm68k_mot -no-opt -Fhunkexe -nosym -o playk240 playk240.asm
 
 Version notes:
-- Repair bug fixed (v2.001)
+- Ship repair bug fixed (v2.001)
 - Asteros drain bug fixed (v2.002)
 - Powerplant can use asteros in stores (v2.003) 
 - Each powerplant draws 1 ore (v2.003)
@@ -18,5 +18,5 @@ Version notes:
 - Swixaran win screen changed to outro3.mgl (v2.007)
 - Abbreviation "CD" (credits) changed to "CR", as in demo version (v2.008)
 - Typo fix: hanger to hangar (v2.009)
-- Modification in v.2.003 reversed: only 1 asteros drawn for powerplants (v2.010) 
+- Modification reversed: <s>each powerplant draws 1 ore</s> (v2.010) 
 - Fleet pause bug fixed and F keys deactivated on targeting screen (v2.011)
