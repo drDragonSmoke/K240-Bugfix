@@ -17,7 +17,7 @@ Version notes:
 - Swixaran win screen changed to outro3.mgl
 
 
-Fixes and modifications made possible by disassembly analysis and assistance provided by tetracorp:
+Fixes made possible by disassembly analysis and assistance provided by tetracorp:
 
 https://github.com/tetracorp/k240
 
