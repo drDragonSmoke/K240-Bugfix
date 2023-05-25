@@ -21,6 +21,9 @@ Reassembled play file. Version notes:
 <b>english.mgl</b><br>
 String file with Powerplant typo fixed on Sci-Tek page (20MW to 32MW)
 
+Some YouTube videos about it:
+https://www.youtube.com/@drDragonSmoke
+
 Fixes made possible by disassembly analysis and assistance provided by tetracorp:
 
 https://github.com/tetracorp/k240
