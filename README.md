@@ -25,5 +25,4 @@ Some YouTube videos about it:
 https://www.youtube.com/@drDragonSmoke
 
 Fixes made possible by disassembly analysis and assistance provided by tetracorp:
-
 https://github.com/tetracorp/k240
