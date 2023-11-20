@@ -19,7 +19,7 @@ Reassembled play file. Version notes:
 - Swixaran win screen changed to outro3.mgl
 - Powerplant typo fixed (20MW to 32MW)
 - Hangar typos fixed (hanger to hangar)
-- Changed to single-clicks in hangar, shipyard and fleet windows
+- Changed to single-clicks in various windows
 
 
 Some YouTube videos about it:
