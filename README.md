@@ -26,7 +26,7 @@ https://www.youtube.com/@drDragonSmoke
 Fixes made possible by disassembly analysis and assistance provided by _tetracorp_
 https://github.com/tetracorp/k240
 
-Also contributed: _AmigaLive_
+Also contributed: <i>AmigaLive</b><br>
 https://www.twitch.tv/amigalive
 
 Big thanks!
