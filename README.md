@@ -1,7 +1,7 @@
 # K240-Bugfix
 K240 - Amiga game - Bug fixes - Assembly
 
-<b>playk240_v2.012.asm</b><br>
+<b>playk240.asm</b><br>
 Heavily annotated disassembly. To reassemble with vasm:
 
 vasmm68k_mot -no-opt -Fhunkexe -nosym -o playk240 playk240.asm
@@ -17,12 +17,16 @@ Reassembled play file. Version notes:
 - Photon/plasma hardpoint price switched
 - Alien ships can use their warp generator hardpoint
 - Swixaran win screen changed to outro3.mgl
+- Powerplant typo fixed (20MW to 32MW)
+- Hangar typos fixed (hanger to hangar)
+- Changed to single-clicks in hangar, shipyard and fleet windows
 
-<b>english.mgl</b><br>
-String file with Powerplant typo fixed on Sci-Tek page (20MW to 32MW)
 
 Some YouTube videos about it:
 https://www.youtube.com/@drDragonSmoke
 
 Fixes made possible by disassembly analysis and assistance provided by tetracorp:
 https://github.com/tetracorp/k240
+
+Also contributed: AmigaLive
+Big thanks!
