@@ -23,10 +23,10 @@ Reassembled play file. Version notes:
 Some YouTube videos:
 https://www.youtube.com/@drDragonSmoke
 
-Fixes made possible by disassembly analysis and assistance provided by tetracorp:
+Fixes made possible by disassembly analysis and assistance provided by _tetracorp_
 https://github.com/tetracorp/k240
 
-Also contributed: AmigaLive:
+Also contributed: _AmigaLive_
 https://www.twitch.tv/amigalive
 
 Big thanks!
