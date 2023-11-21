@@ -10,7 +10,7 @@ vasmm68k_mot -no-opt -Fhunkexe -nosym -o playk240 playk240.asm
 Reassembled play file. Version notes:
 - Ship repair bug fixed
 - Asteros drain bug fixed
-- Fleet pause bug fixed
+- Fleet freeze bug fixed
 - Spy peeking bug fixed
 - Powerplant typo fixed (20MW to 32MW)
 - Powerplant gives 8mw on zero ore
@@ -20,7 +20,13 @@ Reassembled play file. Version notes:
 - Swixaran win screen changed to outro3.mgl
 - Changed to single-clicks in various windows
 
-Some YouTube videos:
+References:
+- <a href="https://tetracorp.github.io/k240/game-mechanics/bugs.html">Various bugs</a>
+- <a href="https://tetracorp.github.io/k240/game-mechanics/bugs-photon-plasma.html">Photon vs. Plasma</a>
+- <a href="https://github.com/tetracorp/k240/issues/13">Fleet freeze bug</a>
+- <a href="https://tetracorp.github.io/k240/fun/powerplant-sucks.html">The Powerplant sucks</a>
+
+A few YouTube videos:
 https://www.youtube.com/@drDragonSmoke
 
 Fixes made possible by disassembly analysis and assistance provided by <i>tetracorp</i><br>
