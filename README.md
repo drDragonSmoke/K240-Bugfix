@@ -18,7 +18,7 @@ Reassembled play file. Version notes:
 - Photon/plasma hardpoint price switched
 - Alien ships can use their warp generator hardpoint
 - Swixaran win screen changed to outro3.mgl
-- Changed to single-clicks in various windows
+- Changed to single left-clicks in various windows
 
 References:
 - <a href="https://tetracorp.github.io/k240/game-mechanics/bugs.html">Various bugs</a>
