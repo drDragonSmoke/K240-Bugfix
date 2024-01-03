@@ -12,6 +12,7 @@ Reassembled play file. Version notes:
 - Asteros drain bug fixed
 - Fleet freeze bug fixed
 - Spy peeking bug fixed
+- Yard alerts bug fixed
 - Powerplant typo fixed (20MW to 32MW)
 - Powerplant gives 8mw on zero ore
 - Powerplant can use asteros in stores
