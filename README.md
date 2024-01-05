@@ -7,7 +7,9 @@ Heavily annotated disassembly. To reassemble with vasm:
 vasmm68k_mot -no-opt -Fhunkexe -nosym -o playk240 playk240.asm
 
 <b>playk240</b><br>
-Reassembled play file. Version notes:
+Reassembled play file. Put in: <i>[your K240 gamefiles folder]\Hard Drives\data\ </i><br>
+It will replace the original file, so you might want to save it first.<br>
+Version notes:
 - Ship repair bug fixed
 - Asteros drain bug fixed
 - Fleet freeze bug fixed
