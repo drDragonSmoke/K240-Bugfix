@@ -26,6 +26,7 @@ Version notes:
 - Alien ships can use their warp generator hardpoint
 - Swixaran win screen changed to outro3.mgl
 - Changed to single left-clicks in various windows
+- Fixed a bug with how ship building costs were calculated
 
 References:
 - <a href="https://tetracorp.github.io/k240/game-mechanics/bugs.html">Various bugs</a>
