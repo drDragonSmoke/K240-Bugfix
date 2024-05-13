@@ -19,6 +19,8 @@ Version notes:
 - Fleet freeze bug fixed
 - Spy peeking bug fixed
 - Yard alerts bug fixed
+- Scout ship ore bug fixed
+- OSD ships armor bug fixed 
 - Powerplant typo fixed (20MW to 32MW)
 - Powerplant gives 8mw on zero ore
 - Powerplant can use asteros in stores
@@ -26,7 +28,6 @@ Version notes:
 - Alien ships can use their warp generator hardpoint
 - Swixaran win screen changed to outro3.mgl
 - Changed to single left-clicks in various windows
-- Fixed a bug with how ship building costs were calculated
 
 References:
 - <a href="https://tetracorp.github.io/k240/game-mechanics/bugs.html">Various bugs</a>
